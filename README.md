@@ -7,8 +7,8 @@
 
 #### Course Surveys
 
-* [Introductory (First Day) Survey](http://goo.gl/forms/4GlyKLy515)
-* [Quiz Day Survey](http)
+* [Introductory Survey](http://goo.gl/forms/4GlyKLy515)
+* [Post Quiz Survey](http://goo.gl/forms/AM8NWbZXrF)
 
 #### Course Outline
 
