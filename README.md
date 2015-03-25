@@ -2,7 +2,7 @@
 
 #### [Wiki](Wiki)
 
-* [Index](Index of terms)
+* [Vocabulary](Index of terms)
 * [Lecture Summaries](Lecture Summaries)
 
 #### Course Surveys
