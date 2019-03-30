@@ -1,4 +1,4 @@
-### Genetic Analysis (Bio393) 
+### BIO393: Biomedical Genetics 
 
-#### Go to the [Wiki](https://github.com/AndersenLab/Genetic-Analysis/wiki)!
+#### Please go to the [Wiki](https://github.com/AndersenLab/Genetic-Analysis/wiki) to see all of the course content!
 
